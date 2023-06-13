@@ -49,7 +49,7 @@ body {
 	background-size: cover;
 	border: none;
 	border-radius: 30px;
-	box-shadow: 0 2px 15px #FFFFCC;
+	box-shadow: 0 2px 15px ##f8f8bb;
 	transform: rotate(-20deg);
 }
 
